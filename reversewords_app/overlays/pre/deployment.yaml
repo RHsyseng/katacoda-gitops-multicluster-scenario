@@ -11,5 +11,5 @@ spec:
       - name: reverse-words
         env:
         - name: RELEASE
-          value: "Production release"
+          value: "Preproduction release"
         - $patch: replace
